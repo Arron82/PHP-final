@@ -1,0 +1,81 @@
+/*
+    Author:     Arron Pelc
+    Date:       05/05/2020
+    Filename:   style.css
+    FINAL PROJECT
+*/
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+h3
+{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+body
+{
+    background-color: #81a3a7;
+}
+
+
+main
+{
+    width: 75%;
+    margin: auto;
+    background-color: #c2d3da;
+}
+
+form
+{
+    margin: 25px 0px 25px 15px;
+    
+}
+
+button
+{
+    margin: 10px;
+}
+
+#alertHeader
+{
+    text-align: center;
+    line-height: 175px;
+    margin-top: 50px;
+    
+    width: 100;
+    height: 180px;
+    background-color: #192E5B;
+    line-height: 100px;
+    color: #F18904;
+    
+}
+
+#alertHeader h1
+{
+    font-size: 7em;
+}
+
+#alertHeader p
+{
+    font-size: 2em;
+}
+
+#alertHeader div
+{
+    
+}
+
+#alertBody
+{
+    text-align: center;
+}
+
+#alert
+{
+    font-size: 1.5em;
+    margin-top: 75px;
+}
