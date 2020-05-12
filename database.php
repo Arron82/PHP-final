@@ -8,8 +8,8 @@
 
 <?PHP
     $dsn = 'mysql:host=localhost;dbname=student_registration';
-    $username = 'root';
-    $password = '';
+    $username = '****';
+    $password = '****';
 
     try
     {
